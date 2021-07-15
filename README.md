@@ -10,8 +10,8 @@
 #### Build a model based on the customers that were able to be matched that will look to learn a relationships between loyalty score and some customer behavioral and transactional metrics in the data that we have access to.
 
 ## Additional Notes
-### If we can build a good model we can use it to predict a loyalty score for the remaining customers that the consultancy couldn't tag.
-### This will provide immense value to their business as it will enable them to target all their customers with specific offers and discounts based on their loyalty to "ABC Grocery".
+#### If we can build a good model we can use it to predict a loyalty score for the remaining customers that the consultancy couldn't tag.
+#### This will provide immense value to their business as it will enable them to target all their customers with specific offers and discounts based on their loyalty to "ABC Grocery".
 
 ### The Model used
 #### Linear Regression
