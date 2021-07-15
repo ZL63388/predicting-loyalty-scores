@@ -26,7 +26,7 @@
 
 ![image](https://user-images.githubusercontent.com/71423442/125720940-97044ffa-df66-4ba8-bb4f-873ea0752e05.png)
 
-### Quick Insight
+### Quick Insights
 #### - distance_from_store is saying that the output variable of loyalty scores would go down .20 or 20 percent as loyalty score is a decimal value between 0 and 1 for every extra mile that the customer lives from the store
 #### - customers that live far away from the store probably lives closer to another store where they do their shopping as well
 #### - customers who live near the store probably do their shopping on this store and means higher loyalty score
