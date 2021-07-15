@@ -22,6 +22,8 @@
 ##### adjusted r-squared = 0.75
 ##### model intercept = 0.52
 
+### The Model Coefficients
+
 ![image](https://user-images.githubusercontent.com/71423442/125720940-97044ffa-df66-4ba8-bb4f-873ea0752e05.png)
 
 ### Quick Insight
